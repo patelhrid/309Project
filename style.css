@@ -73,6 +73,12 @@ h2 {
     font-weight: bold;
 }
 
+.meeting-unfinalised {
+    background-color: #3799f6;
+    color: #fff;
+    font-weight: bold;
+}
+
 .existing-contacts {
     padding: 40px 0;
 }
