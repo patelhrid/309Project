@@ -54,3 +54,25 @@ h2 {
     color: #fff;
     font-weight: bold;
 }
+
+.meeting-issue {
+    background-color: #efd722;
+    color: #fff;
+    font-weight: bold;
+}
+
+.meeting-conflict {
+    background-color: #ef2222;
+    color: #fff;
+    font-weight: bold;
+}
+
+.meeting-old{
+    background-color: #b7b6b6;
+    color: #fff;
+    font-weight: bold;
+}
+
+.existing-contacts {
+    padding: 40px 0;
+}
